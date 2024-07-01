@@ -55,6 +55,8 @@ The JARVIS project aims to create a versatile virtual assistant that leverages a
 ## Visualization
 ![JARVIS Video](https://github.com/jainam0037/JARVIS--Python-project/blob/main/Video.mp4)
 
+![JARVIS Video](https://drive.google.com/drive/u/0/my-drive)
+
 ## Results
 - Working Jarvis which interacts and performs as a Virtual Assistant.
 
