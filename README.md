@@ -28,7 +28,7 @@ The JARVIS project aims to create a versatile virtual assistant that leverages a
 - **Translation**: Translates text between multiple languages.
 - **setting alarm**: Set an alarm for our use
 - **Internet Speed**: Check internet speed with just asking Jarvis
-- ** News**: Ask Jarvis about latest news and current affairs in the world
+- **News**: Ask Jarvis about latest news and current affairs in the world
 - **Calculator**: Use it as a Calculator
 
 ## Steps for Approach
