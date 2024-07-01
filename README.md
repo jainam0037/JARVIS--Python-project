@@ -23,10 +23,13 @@ The JARVIS project aims to create a versatile virtual assistant that leverages a
 
 ## Features
 - **Weather Updates**: Provides real-time weather information.
-- **Music Control**: Manages music playback through voice commands and hand gestures.
+- **Music Control**: Manages music playback through voice commands.
 - **Task Scheduling**: Allows users to schedule and manage tasks.
 - **Translation**: Translates text between multiple languages.
 - **setting alarm**: Set an alarm for our use
+- **Internet Speed**: Check internet speed with just asking Jarvis
+- ** News**: Ask Jarvis about latest news and current affairs in the world
+- **Calculator**: Use it as a Calculator
 
 ## Steps for Approach
 1. **Define Objectives**: Outline the specific functions and capabilities of JARVIS.
@@ -47,21 +50,13 @@ The JARVIS project aims to create a versatile virtual assistant that leverages a
 2. **Music Control**: Implemented using media player APIs and PyAutoGUI for hand gesture control.
 3. **Task Scheduling**: Developed using task management libraries and APIs.
 4. **Translation**: Utilized translation APIs such as Google Translate API.
-5. **Smart Home Integration**: Connected with Alexa for controlling smart home devices.
-6. **Hand Gesture Recognition**: Developed a CNN model using PyTorch and OpenCV for gesture detection.
-7. **Question Pair Analysis**: Implemented NLP techniques to analyze question pairs for semantic similarity.
-8. **Fitness Tracker Data Processing**: Processed and visualized data using Python scripts and libraries.
+
 
 ## Visualization
-- **Hand Gesture Recognition**: Visualized gesture detection accuracy using confusion matrices and accuracy plots.
-- **Fitness Data**: Plotted accelerometer and gyroscope data to visualize exercise classification.
-- **Question Pair Analysis**: Created similarity matrices to visualize the semantic similarity between question pairs.
+
 
 ## Results
-- Achieved a **98% accuracy** in hand gesture recognition using the CNN model.
-- Successfully integrated smart home control with Alexa.
-- Improved user experience on Quora by reducing redundant questions through effective semantic analysis.
-- Processed fitness tracker data to accurately classify exercises and count repetitions.
+- Working Jarvis which interacts and performs as a Virtual Assistant.
 
 ## Conclusion
 The JARVIS project demonstrates the potential of combining advanced NLP, machine learning, and integration technologies to create a highly functional and interactive virtual assistant. Future work will focus on further enhancing the capabilities of JARVIS and exploring new applications for the technology.
